@@ -1,8 +1,8 @@
-/* Nesting */
+sudo brew services run mongodb-community/* Nesting */
 /* SCSS */
 nav {
   font-size: 1em;
-  font-font-weight: bold;
+  font-weight: bold;
   float: left;
 }
 nav ul {
